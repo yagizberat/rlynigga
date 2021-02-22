@@ -1,0 +1,40 @@
+{
+  "author": {
+    "name": "calasyc",
+    "id": "779887107123839046"
+  },
+  "contributors": [
+    {
+      "name": "calasyc",
+      "id": "779887107123839046"
+    }
+  ],
+  "service": "Sahibinden.com",
+  "description": {
+    "en": "Turkey's Marketplace"
+    "tr": "Sahibinden Satýlýk, Kiralýk, Emlak, Oto, Alýþveriþ Ürünleri"
+  },
+  "url": "genius.com",
+  "version": "2.0.0",
+  "logo": "https://i.imgur.com/eAvyLyZl.png",
+  "thumbnail": "https://i.imgur.com/sYrGyIs.png",
+  "color": "#FFFF64",
+  "tags": [
+    "sahibinden",
+    "car",
+    "home"
+  ],
+  "category": "selling",
+  "settings": [
+    {
+      "id": "lang",
+      "multiLanguage": true
+    },
+    {
+      "id": "buttons",
+      "title": "Show Buttons",
+      "icon": "fas fa-compress-arrows-alt",
+      "value": true
+    }
+  ]
+}
